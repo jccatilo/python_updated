@@ -1,0 +1,2 @@
+This is a heroku deployment ready app. 
+https://jccatilo-ticker.herokuapp.com/

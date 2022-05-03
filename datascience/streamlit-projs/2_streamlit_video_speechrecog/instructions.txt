@@ -1,0 +1,17 @@
+reference video: https://www.youtube.com/watch?v=-9J4FZq0t2k
+1.) Copy her starting code
+2.) install the needed python libs using pip: streamlit, youtube_dl, requests, pprint
+3.) Download ffmpeg dependencies:\
+windows: https://ffmpeg.org/download.html#build-windows
+linux: https://ffmpeg.org/download.html#build-linux
+mac: https://ffmpeg.org/download.html#build-mac
+
+for windows, choose "windows build by BtbN".
+In the time of creation of this project, I've chosen "ffmpeg-n5.0-latest-win64-lgpl-5.0.zip"
+Download the zip file then extract somewhere. 
+Copy the files in the ffmpeg-n5.0-latest-win64-lgpl-5.0\bin directory from the extracted zip file
+to your pythonX>Scripts directory in your C>Users>User>Appdata(enable hidden folders) and search for something like C:\Users\John Carlo\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\Scripts.
+The key to above's insturction is to fine C:>Users>USERNAME>AppData>PythonXX(Version)>Scripts. This is kinda different for everyone.
+
+4.) To make the app reusable, you need to add st.session_state['status']='' on the last line of the code.
+5.) Hit streamlit run .\streamlit_app.py to run the project and the google chrome should pop up with the localhost link for you app. 
