@@ -1,0 +1,10 @@
+# I made this with no venv
+
+
+# to install ta-lib for windows
+https://blog.quantinsti.com/install-ta-lib-python/#:~:text=To%20install%20Ta%2DLib%2C%20you,all%20there%20is%20to%20it.
+
+
+# to enter debug mode....
+For Windows CMD, use set instead of export: set FLASK_ENV=development
+For PowerShell, use $env: $env:FLASK_ENV = "development"
