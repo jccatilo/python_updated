@@ -14,7 +14,7 @@
 - File IO
 
 -- Intermediate --
-- Comprehensiona
+- Comprehension
 - Lambda
 - Collections Module
 - Map and Filter
