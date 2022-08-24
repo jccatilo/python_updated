@@ -1,4 +1,5 @@
 # How to master python
+## see [roadmap repo](https://github.com/jccatilo/python_updated/tree/main/roadmap)
 
 -- [Basic](https://github.com/jccatilo/python_updated/tree/main/roadmap/1-Basic) --
 - Variables
