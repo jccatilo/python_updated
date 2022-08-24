@@ -1,6 +1,6 @@
 # How to master python
 
--- Basic --
+-- [Basic](https://github.com/jccatilo/python_updated/tree/main/roadmap/1-Basic) --
 - Variables
 - Conditions
 - Chained Conditionals
@@ -13,7 +13,7 @@
 - Common Methods
 - File IO
 
--- Intermediate --
+-- [Intermediate](https://github.com/jccatilo/python_updated/tree/main/roadmap/2-Intermediate) --
 - Comprehension
 - Lambda
 - Collections Module
@@ -29,7 +29,7 @@ Async IO
 
 -- Advanced --
 - Decorators
-- Genrerators
+- Generators
 - Context Managers
 - Metaclass
 - Concurrency
