@@ -4,7 +4,7 @@
 
     - Input: Customer Attributes
 
-    - Output: 1 (Churn), 0(Stay)
+    - Output: 1(Churn), 0(Stay)
 
     - Model Type: Binary Classification
 
