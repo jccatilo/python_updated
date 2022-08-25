@@ -10,6 +10,8 @@
 
     - Python Libraries: Pandas, Scikit-Learn
 
+    - Examples: [Telco Churn](https://github.com/jccatilo/python_updated/blob/main/Machine-Learning/1-Churn%20Prediction.ipynb)
+
 2. Sales Forecasting
 
     - Input: Product Details, Time
