@@ -22,6 +22,8 @@
 
     - Python Libraries: Pandas, Scikit-Learn
 
+    - Examples: [Airline Passenger Forecasting (on-going)](https://github.com/jccatilo/python_updated/blob/main/Machine-Learning/Basic%20Time%20Series%20using%20ARIMA.ipynb)
+
 3. Sentiment Analysis
 
     - Input: Tweets
