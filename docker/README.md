@@ -6,5 +6,5 @@
 
 3. After above, you can proceed to the ff guides I made:
 
-    - Dockerizing a python script
-    - Dockerizing a python web app (FastAPI with virtual environment)
+    - [Dockerizing a python script](https://github.com/jccatilo/python_updated/tree/main/docker/script-docker)
+    - [Dockerizing a python web app (FastAPI with virtual environment)](https://github.com/jccatilo/python_updated/tree/main/docker/fastapi-docker)
