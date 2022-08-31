@@ -53,4 +53,4 @@
 
 12. ```docker run -p 8000:8000 python-fastapi```
 
-13. on your browser go to http://127.0.0.1:8000/ and you should see the previous hello world web response.
+13. on your browser go to http://127.0.0.1:8000/ and you should see the previous hello world web response. For some reasons, http://0.0.0.0:8000 doesn't work for me. 
