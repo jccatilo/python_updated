@@ -13,7 +13,7 @@
 
 4. create /app/main.py
 
-5. Grabe the example code from the [FAST API website](https://fastapi.tiangolo.com/)
+5. Grab the example code from the [FAST API website](https://fastapi.tiangolo.com/) but if you will notice I did some modifications. LOL 
 
     ```
     from typing import Union
