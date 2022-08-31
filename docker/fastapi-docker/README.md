@@ -42,6 +42,7 @@
 6. Test App locally, CD to /app and run main.py
 
     ```cd app```
+    
     ```cd python main.py```
 
 7. open *http://127.0.0.1:8000/* on your browser and you should see *{"Hello":"World"}*
