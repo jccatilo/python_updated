@@ -44,6 +44,11 @@ Async IO
 -  Where are you using your skills?
 -  Apply skills to a profession
 
+
+-- ML Ops --
+- [docker](https://github.com/jccatilo/python_updated/tree/main/docker)
+- [fast-api + docker](https://github.com/jccatilo/python_updated/tree/main/docker/fastapi-docker)
+
 ### Test test....
 
 ### Test from windows.
